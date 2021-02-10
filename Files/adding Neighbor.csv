@@ -1,0 +1,4 @@
+SITE_NAME,NeighborCellID,NeighborCellBSIC,NeighborCellARFCN,NeighborCellLAC,NeighborCellMCC,NeighborCellMNC,IsMacroCell,NeighborCellNCCNoPermit
+VP11768_Dantek_9,52002,57,7,7021,457,2,TRUE,"1,1,1,1,1,1,1,1"
+VP11768_Dantek_9,52003,58,20,7021,457,2,TRUE,"1,1,1,1,1,1,1,1"
+VP11768_Dantek_9,9392,40,2,7021,457,2,TRUE,"1,1,1,1,1,1,1,1"

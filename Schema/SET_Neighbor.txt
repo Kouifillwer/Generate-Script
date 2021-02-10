@@ -1,0 +1,1 @@
+add ManualHONeighborCell:Cid="1",HONeighborCellID="[HONeighborCellID]",NeighborCellMCC="457",NeighborCellMNC="02",NeighborCellID="[NeighborCellID]",NeighborCellLAC="[NeighborCellLAC]",NeighborCellARFCN="[NeighborCellARFCN]",NeighborCellBSIC="[NeighborCellBSIC]",NeighborCellNCCNoPermit=[1,1,1,1,1,1,1,1],IsMacroCell="1";

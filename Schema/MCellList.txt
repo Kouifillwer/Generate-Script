@@ -1,0 +1,1 @@
+ManualReselectNeighborCellList:NeighborCellARFCNList="[NBC_ARFCN_LIST]";

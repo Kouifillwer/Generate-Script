@@ -1,0 +1,4 @@
+set ChannelDescription:TimeSlotID="5", CarrierID="2",OriginalChannelType="7";
+set ChannelDescription:TimeSlotID="6", CarrierID="2",OriginalChannelType="8";
+set ChannelDescription:TimeSlotID="7", CarrierID="2",OriginalChannelType="8";
+set ChannelDescription:TimeSlotID="8", CarrierID="2",OriginalChannelType="8";

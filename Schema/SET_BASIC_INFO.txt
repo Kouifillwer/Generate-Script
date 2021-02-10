@@ -1,0 +1,3 @@
+set FAPSystemPublic:AuRfWorkBandCapability="1";
+set AutoBuild:Enable="0";
+set CellBasic:LAC="[LAC]",MCC="[MCC]",MNC="[MNC]",CellId=[CELLID],NCC="[NCC]",BCC="[BCC]";
